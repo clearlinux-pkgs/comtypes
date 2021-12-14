@@ -4,7 +4,7 @@
 #
 Name     : comtypes
 Version  : 1.1.10
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/c4/37/c53b19c2c99208116ba813e3553a95b536cdde81c8183a87361537866f87/comtypes-1.1.10.tar.gz
 Source0  : https://files.pythonhosted.org/packages/c4/37/c53b19c2c99208116ba813e3553a95b536cdde81c8183a87361537866f87/comtypes-1.1.10.tar.gz
 Summary  : Pure Python COM package
